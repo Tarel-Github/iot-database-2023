@@ -8,4 +8,7 @@ IoT 개발자과정 데이터베이스 - MySQL
     - Sample DB 설치
     - WorkBench 사용법
 
-    
+# 2일차
+1. MySQL 학습
+    - 
+    - 
